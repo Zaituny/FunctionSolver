@@ -7,14 +7,13 @@ This is a repository for the Master Micro's 2025 Winter SW internship
 - Find intersection points between functions
 - Interactive plot with hover information
 - Support for common mathematical operations and functions
-- Clean, modern UI with customizable styling
 
 ## Installation
 
 ```bash
 # Clone the repository
 git clone https://github.com/Zaituny/FunctionSolver.git
-# Move into project directory
+# Move into the project directory
 cd FunctionSolver
 
 # Install dependencies
