@@ -1,0 +1,7 @@
+ply
+sympy
+pyside2
+matplotlib
+pytest
+pytest-qt
+numpy
